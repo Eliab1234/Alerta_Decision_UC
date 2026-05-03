@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-tensorflow
-scikit-learn
-imbalanced-learn
-joblib
